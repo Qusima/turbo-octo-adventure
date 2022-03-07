@@ -1,2 +1,2 @@
 def dziel (first,secound):
-	return first//second
+   return first//second
